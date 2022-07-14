@@ -33,62 +33,62 @@
                 Learn, build, and grow with our resources
               </p>
             </div>
-          </section>
-        <div id="search-app">
-            <div class="columns">
-                <div class="column">
-                    <div class="field">
-                        <label class="label">Search for</label>
-                        <input v-model="searchTerm" placeholder="Search for" class="input">
-                    </div>
-                    <div class="field">
-                        <button v-on:click="doSearch" class="button is-link">Search</button>
-                    </div>
-                </div>
-            </div>
-            <div class="block">
-                <b-field label="Filter on rating">
-                    <b-slider :min="0" :max="1" step="0.1" v-model="rating_average" v-on:change="doSearch" >
-                        <template v-for="val in [0, 0.2, 0.4, 0.6, 0.8, 1]">
-                            <b-slider-tick :value="val" :key="val">{{ val }}</b-slider-tick>
-                        </template>
-                    </b-slider>
-                </b-field>
-            </div>
-            <div class="block">
-                <b-checkbox v-for="facet in availableFacets"
-                    v-bind:native-value="facet.value"
-                    v-model="myfacets"
-                    @change.native="doRefresh($event)">
-                    {{facet.value}} ({{facet.count}})
-                </b-checkbox>
-            </div>
+		</section>
+		<div id="search-app" style="margin-left:5%;margin-right:5%">
+			<div class="columns">
+				<div class="column">
+					<div class="field">
+						<label class="label">Search for</label>
+						<input v-model="searchTerm" placeholder="Search for" class="input">
+					</div>
+					<div class="field">
+						<button v-on:click="doSearch" class="button is-link">Search</button>
+					</div>
+				</div>
+			</div>
+			<div class="block">
+				<b-field label="Filter on rating">
+					<b-slider :min="0" :max="1" step="0.1" v-model="rating_average" v-on:change="doSearch" >
+						<template v-for="val in [0, 0.2, 0.4, 0.6, 0.8, 1]">
+							<b-slider-tick :value="val" :key="val">{{ val }}</b-slider-tick>
+						</template>
+					</b-slider>
+				</b-field>
+			</div>
+			<div class="block">
+				<b-checkbox v-for="facet in availableFacets"
+					v-bind:native-value="facet.value"
+					v-model="myfacets"
+					@change.native="doRefresh($event)">
+					{{facet.value}} ({{facet.count}})
+				</b-checkbox>
+			</div>
 
-            <div v-for="course in results" class="block">
-                <div class="block mb-0">
-                    <div class="is-size-4">{{course.title}}</div>
-                </div>
-                <div class="block mt-0">
-                    <div class="is-size-5">{{course.summary}}</div>
-                </div>
-                <div class="columns">
-                    <div class="column is-2">
-                        Product: {{course.product}}<br/>
-                        Level: {{course.level}}<br/>
-                        Role: {{course.role}}
-                    </div>
-                    <div class="column is-2">
-                        Duration: {{course.duration}}
-                    </div>
-                    <div class="column is-2">
-                        Rating: {{course.rating_average}}<br/>
-                        Rating Count: {{course.rating_count}}
-                    </div>
-                </div>            
-                <hr/>
-            </div>
-    
-        </div>
+			<div v-for="course in results" class="block" style="background-color:azure;margin-top:20px;margin:2px;font-size:1.0em;border-radius:10px">
+				<div class="block mb-1" style="margin-left:5%;color:steelblue;margin-top:50px">
+					<div class="is-size-5">{{course.title}}</div>
+				</div>
+				<div class="block mt-0" style="margin-left:5%">
+					<div class="is-size-5">{{course.summary}}</div>
+				</div>
+				<div class="columns" style="margin-left:5%">
+					<div class="column is-2">
+						Product: {{course.product}}<br/>
+						Level: {{course.level}}<br/>
+						Role: {{course.role}}
+					</div>
+					<div class="column is-2">
+						Duration: {{course.duration}}
+					</div>
+					<div class="column is-2">
+						Rating: {{course.rating_average}}<br/>
+						Rating Count: {{course.rating_count}}
+					</div>
+				</div>            
+				<hr/>
+			</div>
+	
+		</div>
     </div>
 </body>
 
@@ -99,9 +99,9 @@
         serviceUrl is found in the Overview
     */
     const opts = {
-        headers: {'Content-Type': 'application/json', 'api-key':'<insert key here>'}
+        headers: {'Content-Type': 'application/json', 'api-key':'OIZ7J9ai1gbwwv6nbH0aTG4XEo5bLMja8TSUVauOvPAzSeCwMYq3'}
     }
-    const serviceUrl = 'https://<insert service name here>.search.windows.net'
+    const serviceUrl = 'https://corporatetrainingcatalogsearch.search.windows.net'
     
     /* 
         This demo app uses Vue.js, a progressive framework for building user interfaces.  
