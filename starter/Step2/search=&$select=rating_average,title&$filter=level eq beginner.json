@@ -1,0 +1,50 @@
+{
+  "@odata.context": "https://corporatetrainingcatalogsearch.search.windows.net/indexes('azuretable-index')/$metadata#docs(*)",
+  "value": [
+    {
+      "@search.score": 1,
+      "rating_average": 4.8,
+      "title": "Onboarding - Time Tracking "
+    },
+    {
+      "@search.score": 1,
+      "rating_average": 4.9,
+      "title": "Onboarding - Technology Policies "
+    },
+    {
+      "@search.score": 1,
+      "rating_average": 4.73,
+      "title": "Run quality tests in your build pipeline by using Azure Pipelines"
+    },
+    {
+      "@search.score": 1,
+      "rating_average": 4.61,
+      "title": "Get started with AI Builder Text recognition"
+    },
+    {
+      "@search.score": 1,
+      "rating_average": 4.6,
+      "title": "O365"
+    },
+    {
+      "@search.score": 1,
+      "rating_average": 4.7,
+      "title": "Remote work"
+    },
+    {
+      "@search.score": 1,
+      "rating_average": 4.6,
+      "title": "Workplace Health"
+    },
+    {
+      "@search.score": 1,
+      "rating_average": 4.75,
+      "title": "Enable business users with key AI use cases"
+    },
+    {
+      "@search.score": 1,
+      "rating_average": 4.5,
+      "title": "Git Workflow "
+    }
+  ]
+}

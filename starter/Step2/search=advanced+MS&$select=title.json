@@ -1,0 +1,9 @@
+{
+  "@odata.context": "https://corporatetrainingcatalogsearch.search.windows.net/indexes('azuretable-index')/$metadata#docs(*)",
+  "value": [
+    {
+      "@search.score": 1.0203147,
+      "title": "Use containers for your Language Understanding Intelligent Service (LUIS) Apps"
+    }
+  ]
+}

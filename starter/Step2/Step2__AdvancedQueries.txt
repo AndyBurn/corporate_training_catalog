@@ -1,0 +1,9 @@
+search=beginner+Moodle&$select=title
+search=advanced+Moodle&$select=title
+search=advanced*&$select=title,description
+search=*&$select=title,description,level,instructor,duration,rating_average&$filter=(rating_average gt 4 and rating_count gt 400)
+search=*&$filter=rating_average eq 4.8 and rating_count gt 400
+?search=*&$filter=instructor eq 'Mike Montoya'
+search=*&$filter=level eq 'advanced'
+search=*&$select=rating_average,title&$filter=level eq 'beginner'
+search=advanced+MS&$select=title

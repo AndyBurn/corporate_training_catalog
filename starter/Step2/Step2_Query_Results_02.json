@@ -1,0 +1,100 @@
+{
+  "@odata.context": "https://corporatetrainingcatalogsearch.search.windows.net/indexes('azuretable-index')/$metadata#docs(*)",
+  "value": [
+    {
+      "@search.score": 1.9808292,
+      "Key": "bXMtbGVhcm4wMTVjMjk0Ny04ZTRlLTQ0ZjUtYjM0Mi0wNTY0ZjBlZTJmYmY1",
+      "description": "Learn to manage LUIS apps through versioning, key management, handling data, and improving predictions.",
+      "duration": 24,
+      "instructor": "",
+      "level": "intermediate",
+      "product": "azure",
+      "rating_average": 4.77,
+      "rating_count": 106,
+      "role": "developer",
+      "source": "MS Learn",
+      "title": "Manage your Language Understanding Intelligent Service (LUIS) Apps",
+      "url": "https://docs.microsoft.com/en-us/learn/modules/manage-language-understanding-intelligent-service-apps/?WT.mc_id=api_CatalogApi",
+      "keyphrases": [
+        "ms",
+        "learn"
+      ]
+    },
+    {
+      "@search.score": 1.1823215,
+      "Key": "Y29tcGFueS1tb29kbGVkM2YwYzk1NS1hYzZlLTRjZWQtYjkxYi1mZmNlZjNlOGNlZGU1",
+      "description": "For developers, learn our best practices for writing secure code for web, server, and desktop development",
+      "duration": 3,
+      "instructor": "Eileen Diaz",
+      "level": "intermediate",
+      "product": "NA",
+      "rating_average": 4.4,
+      "rating_count": 132,
+      "role": "developer",
+      "source": "Company Moodle",
+      "title": "Code security",
+      "url": "https://www.example.com/course9",
+      "keyphrases": [
+        "company",
+        "moodle"
+      ]
+    },
+    {
+      "@search.score": 1.1823215,
+      "Key": "bXMtbGVhcm4wMGJhYWE3NS04OWZlLTRmODYtODA1Zi1mMDgzMzZlNmFmNDg1",
+      "description": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
+      "duration": 70,
+      "instructor": "",
+      "level": "intermediate",
+      "product": "m365",
+      "rating_average": 4.71,
+      "rating_count": 2779,
+      "role": "business-user",
+      "source": "MS Learn",
+      "title": "Define an AI strategy to create business value",
+      "url": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/?WT.mc_id=api_CatalogApi",
+      "keyphrases": [
+        "ms",
+        "learn"
+      ]
+    },
+    {
+      "@search.score": 1.1335313,
+      "Key": "Y29tcGFueS1tb29kbGUzY2JiMzgwMC0yNTU0LTQxMjEtYmIzYS1mMzY1ZGViMGMzYjY1",
+      "description": "Learn our best practices for various tools such as Leaflet",
+      "duration": 2,
+      "instructor": "Robert Gillis",
+      "level": "intermediate",
+      "product": "leaflet",
+      "rating_average": 3.9,
+      "rating_count": 28,
+      "role": "developer",
+      "source": "Company Moodle",
+      "title": "Maps",
+      "url": "https://www.example.com/course6",
+      "keyphrases": [
+        "company",
+        "moodle"
+      ]
+    },
+    {
+      "@search.score": 1.1335313,
+      "Key": "Y29tcGFueS1tb29kbGU2YjVkM2Y1NS1lYjAyLTQ5OWQtOTc3NS0yZTBlMjU2NTllMDc1",
+      "description": "Learn our company's Principles for the Responsible Use of AI",
+      "duration": 1,
+      "instructor": "Eileen Diaz",
+      "level": "intermediate",
+      "product": "NA",
+      "rating_average": 4.3,
+      "rating_count": 24,
+      "role": "architect",
+      "source": "Company Moodle",
+      "title": "Ethics in AI",
+      "url": "https://www.example.com/course12",
+      "keyphrases": [
+        "company",
+        "moodle"
+      ]
+    }
+  ]
+}

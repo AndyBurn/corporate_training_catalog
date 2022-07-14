@@ -1,0 +1,68 @@
+{
+  "@odata.context": "https://corporatetrainingcatalogsearch.search.windows.net/indexes('azuretable-index')/$metadata#docs(*)",
+  "value": [
+    {
+      "@search.score": 1,
+      "description": "Learn how to track billable and non-billable hours by assigning time to projects and other relevant time codes",
+      "duration": 1,
+      "instructor": "Mike Montoya",
+      "level": "beginner",
+      "rating_average": 4.8,
+      "title": "Onboarding - Time Tracking "
+    },
+    {
+      "@search.score": 1,
+      "description": "Learn the policies related to the distribution and use of computers, phones, software, and other technology",
+      "duration": 1,
+      "instructor": "Mike Montoya",
+      "level": "beginner",
+      "rating_average": 4.9,
+      "title": "Onboarding - Technology Policies "
+    },
+    {
+      "@search.score": 1,
+      "description": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
+      "duration": 70,
+      "instructor": "",
+      "level": "intermediate",
+      "rating_average": 4.71,
+      "title": "Define an AI strategy to create business value"
+    },
+    {
+      "@search.score": 1,
+      "description": "Find out about automated testing that proves your code to be maintainable, understandable, and functioning without repetitive manual testing.",
+      "duration": 82,
+      "instructor": "",
+      "level": "beginner",
+      "rating_average": 4.73,
+      "title": "Run quality tests in your build pipeline by using Azure Pipelines"
+    },
+    {
+      "@search.score": 1,
+      "description": "Learn our internal best practices for using the O365 suite including email signatures, file storage and other issues",
+      "duration": 2,
+      "instructor": "Gerald Dominguez",
+      "level": "beginner",
+      "rating_average": 4.6,
+      "title": "O365"
+    },
+    {
+      "@search.score": 1,
+      "description": "Understand ways you can be more healthy in the work environment including what ergonomic equipment is available to you",
+      "duration": 1,
+      "instructor": "Mike Montoya",
+      "level": "beginner",
+      "rating_average": 4.6,
+      "title": "Workplace Health"
+    },
+    {
+      "@search.score": 1,
+      "description": "Enable business users with key AI use cases",
+      "duration": 34,
+      "instructor": "",
+      "level": "beginner",
+      "rating_average": 4.75,
+      "title": "Enable business users with key AI use cases"
+    }
+  ]
+}

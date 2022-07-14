@@ -1,0 +1,62 @@
+{
+  "@odata.context": "https://corporatetrainingcatalogsearch.search.windows.net/indexes('azuretable-index')/$metadata#docs(*)",
+  "value": [
+    {
+      "@search.score": 1.2438203,
+      "Key": "Y29tcGFueS1tb29kbGU1YjI5MzI4My04MWU2LTRmODktYTBhYi03MDUzOTg4ZDZmNmE1",
+      "description": "Learn how to track billable and non-billable hours by assigning time to projects and other relevant time codes",
+      "duration": 1,
+      "instructor": "Mike Montoya",
+      "level": "beginner",
+      "product": "NA",
+      "rating_average": 4.8,
+      "rating_count": 540,
+      "role": "all",
+      "source": "Company Moodle",
+      "title": "Onboarding - Time Tracking ",
+      "url": "https://www.example.com/course1",
+      "keyphrases": [
+        "company",
+        "moodle"
+      ]
+    },
+    {
+      "@search.score": 1.2438203,
+      "Key": "Y29tcGFueS1tb29kbGUzMGUzYzZlNS05NDE1LTRkODUtODIyOS1jMjEzMzIwM2M1MzU1",
+      "description": "Learn the policies related to the distribution and use of computers, phones, software, and other technology",
+      "duration": 1,
+      "instructor": "Mike Montoya",
+      "level": "beginner",
+      "product": "NA",
+      "rating_average": 4.9,
+      "rating_count": 550,
+      "role": "all",
+      "source": "Company Moodle",
+      "title": "Onboarding - Technology Policies ",
+      "url": "https://www.example.com/course2",
+      "keyphrases": [
+        "company",
+        "moodle"
+      ]
+    },
+    {
+      "@search.score": 0.51623213,
+      "Key": "Y29tcGFueS1tb29kbGVjNmI3ZmJkMC03MzkwLTQzNzAtYWI3Ny00NTAyNzU5NmI1MjA1",
+      "description": "Understand ways you can be more healthy in the work environment including what ergonomic equipment is available to you",
+      "duration": 1,
+      "instructor": "Mike Montoya",
+      "level": "beginner",
+      "product": "NA",
+      "rating_average": 4.6,
+      "rating_count": 525,
+      "role": "all",
+      "source": "Company Moodle",
+      "title": "Workplace Health",
+      "url": "https://www.example.com/course13",
+      "keyphrases": [
+        "company",
+        "moodle"
+      ]
+    }
+  ]
+}

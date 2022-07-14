@@ -1,0 +1,6 @@
+search=Mike Montoya
+search="advanced"
+search="intermediate" -jenkins&searchMode=all
+search="beginner"~&queryType=full
+search=big data
+search="AI"
