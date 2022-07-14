@@ -1,0 +1,198 @@
+{
+  "@odata.context": "https://corporatetrainingcatalogsearch.search.windows.net/indexes('azureblob-index')/$metadata#docs(*)",
+  "value": [
+    {
+      "@search.score": 1,
+      "metadata_author": "Boping Zhang",
+      "metadata_title": "Augmented reality virtual glasses try-on technology based on iOS platform",
+      "keyphrases": [
+        "Augmented reality virtual glasses",
+        "iOS platform",
+        "technology"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "metadata_author": "Administrator",
+      "metadata_title": "01-CVM0189.pdf",
+      "keyphrases": [
+        "CVM0189"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "metadata_author": "Partheeban Chandrasekaran",
+      "metadata_title": "Toward a testbed for evaluating computational trust models: experiments and analysis",
+      "keyphrases": [
+        "computational trust models",
+        "testbed",
+        "experiments",
+        "analysis"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "metadata_author": "Taiwo Kolajo ",
+      "metadata_title": "Big data stream analysis: a systematic literature review",
+      "keyphrases": [
+        "Big data stream analysis",
+        "systematic literature review"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "metadata_author": "Haoliang Cui",
+      "metadata_title": "A classification method for social information of sellers on social network",
+      "keyphrases": [
+        "classification method",
+        "social information",
+        "social network",
+        "sellers"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "metadata_author": "Rik Das",
+      "metadata_title": "Multi technique amalgamation for enhanced information identification with content based image data",
+      "keyphrases": [
+        "content based image data",
+        "Multi technique amalgamation",
+        "information identification",
+        "enhanced"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "metadata_author": "Sandhya Narayanan ",
+      "metadata_title": "Improving prediction with enhanced Distributed Memory-based Resilient Dataset Filter",
+      "keyphrases": [
+        "Distributed Memory-based Resilient Dataset Filter",
+        "Improving prediction"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "metadata_author": "Chunyong Yin ",
+      "metadata_title": "Mobile marketing recommendation method based on user location feedback",
+      "keyphrases": [
+        "Mobile marketing recommendation method",
+        "user location feedback"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "metadata_author": "P. Ram Mohan Rao ",
+      "metadata_title": "Privacy preservation techniques in big data analytics: a survey",
+      "keyphrases": [
+        "Privacy preservation techniques",
+        "big data analytics",
+        "survey"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "metadata_author": "Tu Nguyen Thi Ngoc ",
+      "metadata_title": "Mining aspects of customer’s review on the social network",
+      "keyphrases": [
+        "Mining aspects",
+        "social network",
+        "customer",
+        "review"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "metadata_author": "Zengda Guan",
+      "metadata_title": "Local regression transfer learning with applications to users’ psychological characteristics prediction",
+      "keyphrases": [
+        "Local regression transfer learning",
+        "psychological characteristics prediction",
+        "applications"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "metadata_author": "Ferdousi Sabera Rawnaque ",
+      "metadata_title": "Technological advancements and opportunities in Neuromarketing: a systematic review",
+      "keyphrases": [
+        "Technological advancements",
+        "systematic review",
+        "opportunities",
+        "Neuromarketing"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "metadata_author": "Alina Köchling ",
+      "metadata_title": "Discriminated by an algorithm: a systematic review of discrimination and fairness by algorithmic decision-making in the context of HR recruitment and HR development",
+      "keyphrases": [
+        "systematic review",
+        "algorithmic decision-making",
+        "HR recruitment",
+        "HR development",
+        "discrimination",
+        "fairness",
+        "context"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "metadata_author": "Muhammad Taimoor Khan",
+      "metadata_title": "Sentiment analysis and the complex natural language",
+      "keyphrases": [
+        "complex natural language",
+        "Sentiment analysis"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "metadata_author": "Iqbal H. Sarker ",
+      "metadata_title": "Context-aware rule learning from smartphone data: survey, challenges and future directions",
+      "keyphrases": [
+        "Context-aware rule",
+        "smartphone data",
+        "future directions",
+        "survey",
+        "challenges"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "metadata_author": "Tuba Parlar ",
+      "metadata_title": "QER: a new feature selection method for sentiment analysis",
+      "keyphrases": [
+        "new feature selection method",
+        "sentiment analysis",
+        "QER"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "metadata_author": " Shun Kodate ",
+      "metadata_title": "Detecting problematic transactions in a consumer-to-consumer e-commerce network",
+      "keyphrases": [
+        "problematic transactions",
+        "commerce network",
+        "consumer"
+      ]
+    },
+    {
+      "@search.score": 1,
+      "metadata_author": null,
+      "metadata_title": null,
+      "keyphrases": []
+    },
+    {
+      "@search.score": 1,
+      "metadata_author": null,
+      "metadata_title": null,
+      "keyphrases": []
+    },
+    {
+      "@search.score": 1,
+      "metadata_author": null,
+      "metadata_title": null,
+      "keyphrases": []
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "@odata.context": "https://corporatetrainingcatalogsearch.search.windows.net/indexes('azuretable-index')/$metadata#docs(*)",
+  "value": [
+    {
+      "@search.score": 1,
+      "duration": 1,
+      "level": "beginner",
+      "rating_average": 4.8,
+      "title": "Onboarding - Time Tracking ",
+      "entities": [
+        {
+          "name": "Mike Montoya",
+          "description": "Mike  is our HR trainer responsible for helping employees be successful in their careers at our company.  He has been with us for 3 years. Mike is an amateur chef and enjoys outdoor live music events.",
+          "matches": [
+            {
+              "text": "Mike Montoya",
+              "offset": 0,
+              "length": 12,
+              "matchDistance": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@search.score": 1,
+      "duration": 1,
+      "level": "beginner",
+      "rating_average": 4.9,
+      "title": "Onboarding - Technology Policies ",
+      "entities": [
+        {
+          "name": "Mike Montoya",
+          "description": "Mike  is our HR trainer responsible for helping employees be successful in their careers at our company.  He has been with us for 3 years. Mike is an amateur chef and enjoys outdoor live music events.",
+          "matches": [
+            {
+              "text": "Mike Montoya",
+              "offset": 0,
+              "length": 12,
+              "matchDistance": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@search.score": 1,
+      "duration": 70,
+      "level": "intermediate",
+      "rating_average": 4.71,
+      "title": "Define an AI strategy to create business value",
+      "entities": []
+    },
+    {
+      "@search.score": 1,
+      "duration": 82,
+      "level": "beginner",
+      "rating_average": 4.73,
+      "title": "Run quality tests in your build pipeline by using Azure Pipelines",
+      "entities": []
+    },
+    {
+      "@search.score": 1,
+      "duration": 2,
+      "level": "beginner",
+      "rating_average": 4.6,
+      "title": "O365",
+      "entities": [
+        {
+          "name": "Gerald Dominguez",
+          "description": "Gerald is a Junior IT Administrator and has been with the company for 1 year. Gerald played NCAA soccer and is a part-time soccer coach on weekends. ",
+          "matches": [
+            {
+              "text": "Gerald Dominguez",
+              "offset": 0,
+              "length": 16,
+              "matchDistance": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@search.score": 1,
+      "duration": 1,
+      "level": "beginner",
+      "rating_average": 4.6,
+      "title": "Workplace Health",
+      "entities": [
+        {
+          "name": "Mike Montoya",
+          "description": "Mike  is our HR trainer responsible for helping employees be successful in their careers at our company.  He has been with us for 3 years. Mike is an amateur chef and enjoys outdoor live music events.",
+          "matches": [
+            {
+              "text": "Mike Montoya",
+              "offset": 0,
+              "length": 12,
+              "matchDistance": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@search.score": 1,
+      "duration": 34,
+      "level": "beginner",
+      "rating_average": 4.75,
+      "title": "Enable business users with key AI use cases",
+      "entities": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "@odata.context": "https://corporatetrainingcatalogsearch.search.windows.net/indexes('azureblob-index')/$metadata#docs(*)",
+  "value": [
+    {
+      "@search.score": 1.4933738,
+      "metadata_title": "Discriminated by an algorithm: a systematic review of discrimination and fairness by algorithmic decision-making in the context of HR recruitment and HR development"
+    },
+    {
+      "@search.score": 0.7113445,
+      "metadata_title": "A classification method for social information of sellers on social network"
+    },
+    {
+      "@search.score": 0.558827,
+      "metadata_title": "Mobile marketing recommendation method based on user location feedback"
+    },
+    {
+      "@search.score": 0.28004232,
+      "metadata_title": "Toward a testbed for evaluating computational trust models: experiments and analysis"
+    },
+    {
+      "@search.score": 0.2457758,
+      "metadata_title": "QER: a new feature selection method for sentiment analysis"
+    },
+    {
+      "@search.score": 0.17716676,
+      "metadata_title": "Detecting problematic transactions in a consumer-to-consumer e-commerce network"
+    },
+    {
+      "@search.score": 0.1541468,
+      "metadata_title": "Big data stream analysis: a systematic literature review"
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "@odata.context": "https://corporatetrainingcatalogsearch.search.windows.net/indexes('azuretable-index')/$metadata#docs(*)",
+  "value": [
+    {
+      "@search.score": 1,
+      "Key": "Y29tcGFueS1tb29kbGU1YjI5MzI4My04MWU2LTRmODktYTBhYi03MDUzOTg4ZDZmNmE1",
+      "description": "Learn how to track billable and non-billable hours by assigning time to projects and other relevant time codes",
+      "duration": 1,
+      "instructor": "Mike Montoya",
+      "level": "beginner",
+      "product": "NA",
+      "rating_average": 4.8,
+      "rating_count": 540,
+      "role": "all",
+      "source": "Company Moodle",
+      "title": "Onboarding - Time Tracking ",
+      "url": "https://www.example.com/course1",
+      "keyphrases": [
+        "company",
+        "moodle"
+      ],
+      "entities": [
+        {
+          "name": "Mike Montoya",
+          "description": "Mike  is our HR trainer responsible for helping employees be successful in their careers at our company.  He has been with us for 3 years. Mike is an amateur chef and enjoys outdoor live music events.",
+          "matches": [
+            {
+              "text": "Mike Montoya",
+              "offset": 0,
+              "length": 12,
+              "matchDistance": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@search.score": 1,
+      "Key": "Y29tcGFueS1tb29kbGUzMGUzYzZlNS05NDE1LTRkODUtODIyOS1jMjEzMzIwM2M1MzU1",
+      "description": "Learn the policies related to the distribution and use of computers, phones, software, and other technology",
+      "duration": 1,
+      "instructor": "Mike Montoya",
+      "level": "beginner",
+      "product": "NA",
+      "rating_average": 4.9,
+      "rating_count": 550,
+      "role": "all",
+      "source": "Company Moodle",
+      "title": "Onboarding - Technology Policies ",
+      "url": "https://www.example.com/course2",
+      "keyphrases": [
+        "company",
+        "moodle"
+      ],
+      "entities": [
+        {
+          "name": "Mike Montoya",
+          "description": "Mike  is our HR trainer responsible for helping employees be successful in their careers at our company.  He has been with us for 3 years. Mike is an amateur chef and enjoys outdoor live music events.",
+          "matches": [
+            {
+              "text": "Mike Montoya",
+              "offset": 0,
+              "length": 12,
+              "matchDistance": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@search.score": 1,
+      "Key": "bXMtbGVhcm4wMGJhYWE3NS04OWZlLTRmODYtODA1Zi1mMDgzMzZlNmFmNDg1",
+      "description": "Explore the strategic components, use cases, and special factors of an enterprise AI strategy that creates real business value, with INSEAD and Microsoft.",
+      "duration": 70,
+      "instructor": "",
+      "level": "intermediate",
+      "product": "m365",
+      "rating_average": 4.71,
+      "rating_count": 2779,
+      "role": "business-user",
+      "source": "MS Learn",
+      "title": "Define an AI strategy to create business value",
+      "url": "https://docs.microsoft.com/en-us/learn/modules/ai-strategy-to-create-business-value/?WT.mc_id=api_CatalogApi",
+      "keyphrases": [
+        "ms",
+        "learn"
+      ],
+      "entities": []
+    },
+    {
+      "@search.score": 1,
+      "Key": "bXMtbGVhcm4wMDBhMGQ1Ny1hMGZlLTQzODYtODI5Yy05OTA3NGQxYjNiOWI1",
+      "description": "Find out about automated testing that proves your code to be maintainable, understandable, and functioning without repetitive manual testing.",
+      "duration": 82,
+      "instructor": "",
+      "level": "beginner",
+      "product": "azure-devops",
+      "rating_average": 4.73,
+      "rating_count": 3301,
+      "role": "solution-architect",
+      "source": "MS Learn",
+      "title": "Run quality tests in your build pipeline by using Azure Pipelines",
+      "url": "https://docs.microsoft.com/en-us/learn/modules/run-quality-tests-build-pipeline/?WT.mc_id=api_CatalogApi",
+      "keyphrases": [
+        "ms",
+        "learn"
+      ],
+      "entities": []
+    },
+    {
+      "@search.score": 1,
+      "Key": "Y29tcGFueS1tb29kbGUxN2IxZWVkYy0wZTk2LTRlNWItODE5OS04M2E0ODQzODhlZmU1",
+      "description": "Learn our internal best practices for using the O365 suite including email signatures, file storage and other issues",
+      "duration": 2,
+      "instructor": "Gerald Dominguez",
+      "level": "beginner",
+      "product": "O365",
+      "rating_average": 4.6,
+      "rating_count": 510,
+      "role": "all",
+      "source": "Company Moodle",
+      "title": "O365",
+      "url": "https://www.example.com/course10",
+      "keyphrases": [
+        "company",
+        "moodle"
+      ],
+      "entities": [
+        {
+          "name": "Gerald Dominguez",
+          "description": "Gerald is a Junior IT Administrator and has been with the company for 1 year. Gerald played NCAA soccer and is a part-time soccer coach on weekends. ",
+          "matches": [
+            {
+              "text": "Gerald Dominguez",
+              "offset": 0,
+              "length": 16,
+              "matchDistance": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@search.score": 1,
+      "Key": "Y29tcGFueS1tb29kbGVjNmI3ZmJkMC03MzkwLTQzNzAtYWI3Ny00NTAyNzU5NmI1MjA1",
+      "description": "Understand ways you can be more healthy in the work environment including what ergonomic equipment is available to you",
+      "duration": 1,
+      "instructor": "Mike Montoya",
+      "level": "beginner",
+      "product": "NA",
+      "rating_average": 4.6,
+      "rating_count": 525,
+      "role": "all",
+      "source": "Company Moodle",
+      "title": "Workplace Health",
+      "url": "https://www.example.com/course13",
+      "keyphrases": [
+        "company",
+        "moodle"
+      ],
+      "entities": [
+        {
+          "name": "Mike Montoya",
+          "description": "Mike  is our HR trainer responsible for helping employees be successful in their careers at our company.  He has been with us for 3 years. Mike is an amateur chef and enjoys outdoor live music events.",
+          "matches": [
+            {
+              "text": "Mike Montoya",
+              "offset": 0,
+              "length": 12,
+              "matchDistance": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@search.score": 1,
+      "Key": "bXMtbGVhcm4wMDJmNDQzNi03MzYwLTRkYWEtYTIxZC1mOWRjZDM1MTg1ODk1",
+      "description": "Enable business users with key AI use cases",
+      "duration": 34,
+      "instructor": "",
+      "level": "beginner",
+      "product": "power-platform",
+      "rating_average": 4.75,
+      "rating_count": 758,
+      "role": "functional-consultant",
+      "source": "MS Learn",
+      "title": "Enable business users with key AI use cases",
+      "url": "https://docs.microsoft.com/en-us/learn/modules/enable-business-users-with-key-ai-uses-cases/?WT.mc_id=api_CatalogApi",
+      "keyphrases": [
+        "ms",
+        "learn"
+      ],
+      "entities": []
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "@odata.context": "https://corporatetrainingcatalogsearch.search.windows.net/indexes('azuretable-index')/$metadata#docs(*)",
+  "value": [
+    {
+      "@search.score": 1,
+      "rating_average": 3.9,
+      "title": "Maps",
+      "entities": [
+        {
+          "name": "Robert Gillis",
+          "description": "Robert is our GIS specialist in charge of making beautiful maps for our users. He has been with the company for 8 years and enjoys hiking, fishing, and any other outdoor activity.",
+          "matches": [
+            {
+              "text": "Robert Gillis",
+              "offset": 0,
+              "length": 13,
+              "matchDistance": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@search.score": 1,
+      "rating_average": 4.9,
+      "title": "DevOps for Ops",
+      "entities": [
+        {
+          "name": "Claudia Blackman",
+          "description": "Claudia is our senior DevOps engineer. She is charged with overseeing our DevOps operations and has been with the company for 2 years. Claudia enjoys downhill skiing and is a member of the local Search & Rescue Team.",
+          "matches": [
+            {
+              "text": "Claudia Blackman",
+              "offset": 0,
+              "length": 16,
+              "matchDistance": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@search.score": 1,
+      "rating_average": 4.3,
+      "title": "Ethics in AI",
+      "entities": [
+        {
+          "name": "Eileen Diaz",
+          "description": "Eileen is our Senior Security Engineer responsible for application and service security. She has been with the company for 9 years and enjoys writing Sci-Fi in her spare time.",
+          "matches": [
+            {
+              "text": "Eileen Diaz",
+              "offset": 0,
+              "length": 11,
+              "matchDistance": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@search.score": 1,
+      "rating_average": 3.8,
+      "title": "DevOps for Dev",
+      "entities": [
+        {
+          "name": "Claudia Blackman",
+          "description": "Claudia is our senior DevOps engineer. She is charged with overseeing our DevOps operations and has been with the company for 2 years. Claudia enjoys downhill skiing and is a member of the local Search & Rescue Team.",
+          "matches": [
+            {
+              "text": "Claudia Blackman",
+              "offset": 0,
+              "length": 16,
+              "matchDistance": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@search.score": 1,
+      "rating_average": 4.77,
+      "title": "Manage your Language Understanding Intelligent Service (LUIS) Apps",
+      "entities": []
+    },
+    {
+      "@search.score": 1,
+      "rating_average": 4.4,
+      "title": "Code security",
+      "entities": [
+        {
+          "name": "Eileen Diaz",
+          "description": "Eileen is our Senior Security Engineer responsible for application and service security. She has been with the company for 9 years and enjoys writing Sci-Fi in her spare time.",
+          "matches": [
+            {
+              "text": "Eileen Diaz",
+              "offset": 0,
+              "length": 11,
+              "matchDistance": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "@search.score": 1,
+      "rating_average": 4.71,
+      "title": "Define an AI strategy to create business value",
+      "entities": []
+    }
+  ]
+}
